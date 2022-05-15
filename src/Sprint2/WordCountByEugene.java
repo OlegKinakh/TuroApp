@@ -1,4 +1,4 @@
-package Sprint2;
+package TurroApp.src.Sprint2;
 
 import java.util.Scanner;
 
